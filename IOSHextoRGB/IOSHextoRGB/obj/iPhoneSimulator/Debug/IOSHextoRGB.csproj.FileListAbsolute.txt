@@ -1,9 +1,9 @@
 /Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/bin/iPhoneSimulator/Debug/IOSHextoRGB.exe
 /Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/bin/iPhoneSimulator/Debug/IOSHextoRGB.pdb
-/Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
-/Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
-/Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/actool/_PartialAppManifest.items
+/Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/optimized/
 /Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/IOSHextoRGB.csproj.CoreCompileInputs.cache
 /Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/IOSHextoRGB.exe
 /Users/christopherl10/Desktop/repos/IOS-HEXToRGB/IOSHextoRGB/IOSHextoRGB/obj/iPhoneSimulator/Debug/IOSHextoRGB.pdb

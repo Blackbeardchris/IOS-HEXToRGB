@@ -15,58 +15,58 @@ namespace IOSHextoRGB
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel BlueValue { get; set; }
+        UIKit.UILabel blueValueLabel { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton ConvertButton { get; set; }
+        UIKit.UIView colorView { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel GreenValue { get; set; }
+        UIKit.UIButton convertButton { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UITextField HexTextField { get; set; }
+        UIKit.UILabel greenValueLabel { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel HexValueTitle { get; set; }
+        UIKit.UITextField hexValueTextField { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel RedValue { get; set; }
+        UIKit.UILabel redValueLabel { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
-            if (BlueValue != null) {
-                BlueValue.Dispose ();
-                BlueValue = null;
+            if (blueValueLabel != null) {
+                blueValueLabel.Dispose ();
+                blueValueLabel = null;
             }
 
-            if (ConvertButton != null) {
-                ConvertButton.Dispose ();
-                ConvertButton = null;
+            if (colorView != null) {
+                colorView.Dispose ();
+                colorView = null;
             }
 
-            if (GreenValue != null) {
-                GreenValue.Dispose ();
-                GreenValue = null;
+            if (convertButton != null) {
+                convertButton.Dispose ();
+                convertButton = null;
             }
 
-            if (HexTextField != null) {
-                HexTextField.Dispose ();
-                HexTextField = null;
+            if (greenValueLabel != null) {
+                greenValueLabel.Dispose ();
+                greenValueLabel = null;
             }
 
-            if (HexValueTitle != null) {
-                HexValueTitle.Dispose ();
-                HexValueTitle = null;
+            if (hexValueTextField != null) {
+                hexValueTextField.Dispose ();
+                hexValueTextField = null;
             }
 
-            if (RedValue != null) {
-                RedValue.Dispose ();
-                RedValue = null;
+            if (redValueLabel != null) {
+                redValueLabel.Dispose ();
+                redValueLabel = null;
             }
         }
     }

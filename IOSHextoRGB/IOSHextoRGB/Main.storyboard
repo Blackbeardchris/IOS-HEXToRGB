@@ -14,74 +14,74 @@
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="193" translatesAutoresizingMaskIntoConstraints="NO" text="Enter the Hex Value Please...">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="193" translatesAutoresizingMaskIntoConstraints="NO" text="Enter the Hex Value Please..." fixedFrame="YES">
                                 <rect key="frame" x="16" y="40" width="363" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="386" translatesAutoresizingMaskIntoConstraints="NO">
-                                <rect key="frame" x="20" y="178" width="42" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="579" translatesAutoresizingMaskIntoConstraints="NO">
-                                <rect key="frame" x="186" y="178" width="42" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="580" translatesAutoresizingMaskIntoConstraints="NO">
-                                <rect key="frame" x="345" y="178" width="42" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="581" translatesAutoresizingMaskIntoConstraints="NO">
-                                <rect key="frame" x="184" y="329" width="46" height="30"/>
-                                <state key="normal" title="Button">
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                </state>
-                            </button>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="bezel" minimumFontSize="17" id="582" translatesAutoresizingMaskIntoConstraints="NO" placeholder="FFFFFF">
-                                <rect key="frame" x="16" y="85" width="378" height="30"/>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="bezel" minimumFontSize="17" id="582" translatesAutoresizingMaskIntoConstraints="NO" placeholder="FFFFFF" fixedFrame="YES">
+                                <rect key="frame" x="16" y="85" width="343" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="789" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="29" y="196" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" colorSpace="calibratedRGB" red="1" green="0" blue="0" alpha="1"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="790" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" text="Label">
+                                <rect key="frame" x="176" y="196" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" colorSpace="calibratedRGB" red="0" green="1" blue="0" alpha="1"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="791" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="311" y="196" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" colorSpace="calibratedRGB" red="0" green="0" blue="1" alpha="1"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="792" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="154" y="130" width="87" height="30"/>
+                                <state key="normal" title="Convert">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                            <view contentMode="scaleToFill" id="3413" translatesAutoresizingMaskIntoConstraints="NO">
+                                <rect key="frame" x="0.0" y="263" width="375" height="404"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
+                                    <color key="backgroundColor" colorSpace="calibratedWhite" white="1" alpha="1"/>
+                                </variation>
+                            </view>
                         </subviews>
                         <variation key="default">
                             <mask key="subviews">
                                 <exclude reference="193"/>
-                                <exclude reference="386"/>
-                                <exclude reference="579"/>
-                                <exclude reference="580"/>
-                                <exclude reference="581"/>
                                 <exclude reference="582"/>
+                                <exclude reference="3413"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular-widthClass=compact">
                             <mask key="subviews">
                                 <include reference="193"/>
-                                <include reference="386"/>
-                                <include reference="579"/>
-                                <include reference="580"/>
-                                <include reference="581"/>
                                 <include reference="582"/>
+                                <include reference="3413"/>
                             </mask>
                         </variation>
                     </view>
                     <connections>
-                        <outlet property="HexValueTitle" destination="193" id="name-outlet-193"/>
-                        <outlet property="HexTextField" destination="582" id="name-outlet-582"/>
-                        <outlet property="ConvertButton" destination="581" id="name-outlet-581"/>
-                        <outlet property="RedValue" destination="386" id="name-outlet-386"/>
-                        <outlet property="GreenValue" destination="579" id="name-outlet-579"/>
-                        <outlet property="BlueValue" destination="580" id="name-outlet-580"/>
+                        <outlet property="hexValueTextField" destination="582" id="name-outlet-582"/>
+                        <outlet property="greenValueLabel" destination="790" id="name-outlet-790"/>
+                        <outlet property="blueValueLabel" destination="791" id="name-outlet-791"/>
+                        <outlet property="convertButton" destination="792" id="name-outlet-792"/>
+                        <outlet property="redValueLabel" destination="789" id="name-outlet-789"/>
+                        <outlet property="colorView" destination="3413" id="name-outlet-3413"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -90,6 +90,6 @@
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
-        <simulatedScreenMetrics key="destination" type="retina55"/>
+        <simulatedScreenMetrics key="destination" type="retina47"/>
     </simulatedMetricsContainer>
 </document>

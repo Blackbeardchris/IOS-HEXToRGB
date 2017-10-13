@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{7B9792C1-8465-40C3-8CCB-A8D797F5BFB3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IOSHextoRGB/Main.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IOSHextoRGB/Main.cs">
     <Files>
-      <File FileName="IOSHextoRGB/AppDelegate.cs" Line="59" Column="90" />
+      <File FileName="IOSHextoRGB/AppDelegate.cs" Line="60" Column="1" />
       <File FileName="IOSHextoRGB/Main.storyboard" />
+      <File FileName="IOSHextoRGB/ViewController.cs" Line="29" Column="13" />
+      <File FileName="IOSHextoRGB/Main.cs" Line="12" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -10,7 +12,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.IOSHextoRGB>
+  <MonoDevelop.Ide.ItemProperties.IOSHextoRGB PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B2A26EF4-2A18-4C00-B200-97D22324A5CB">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.IOSHextoRGB>
   <MultiItemStartupConfigurations />
