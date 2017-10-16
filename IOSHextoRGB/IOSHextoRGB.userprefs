@@ -3,7 +3,7 @@
     <Files>
       <File FileName="IOSHextoRGB/AppDelegate.cs" Line="60" Column="1" />
       <File FileName="IOSHextoRGB/Main.storyboard" />
-      <File FileName="IOSHextoRGB/ViewController.cs" Line="37" Column="90" />
+      <File FileName="IOSHextoRGB/ViewController.cs" Line="42" Column="62" />
       <File FileName="IOSHextoRGB/Main.cs" Line="12" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
