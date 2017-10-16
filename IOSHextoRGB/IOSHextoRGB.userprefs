@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{7B9792C1-8465-40C3-8CCB-A8D797F5BFB3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IOSHextoRGB/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IOSHextoRGB/ViewController.cs">
     <Files>
       <File FileName="IOSHextoRGB/AppDelegate.cs" Line="60" Column="1" />
       <File FileName="IOSHextoRGB/Main.storyboard" />
-      <File FileName="IOSHextoRGB/ViewController.cs" Line="29" Column="13" />
+      <File FileName="IOSHextoRGB/ViewController.cs" Line="37" Column="90" />
       <File FileName="IOSHextoRGB/Main.cs" Line="12" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

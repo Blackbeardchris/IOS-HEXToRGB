@@ -16,6 +16,7 @@ namespace IOSHextoRGB
             base.ViewDidLoad();
             // Perform any additional setup after loading the view, typically from a nig.
             convertButton.TouchUpInside += ConvertButton_TouchUpInside;
+            //Event handler
 
         }
         void ConvertButton_TouchUpInside (object sender, EventArgs e)
