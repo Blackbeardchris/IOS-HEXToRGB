@@ -24,18 +24,22 @@ namespace IOSHextoRGB
             string hexValue = hexValueTextField.Text;
             string redHexValue = hexValue.Substring(0, 2);
             string BlueHexValue = hexValue.Substring(4, 2);
+            //method that allows creation of substring that uses value
             string GreenHexValue = hexValue.Substring(2, 2);
             //Cycles throgh the first two values of the hex string, to find the 1st and 3rd value of hex which correspondes with the RGB
 
             int redValue = int.Parse(redHexValue, System.Globalization.NumberStyles.HexNumber);
+            //casts string, in this case the hexvalues, into an integer
 			int greenValue = int.Parse(GreenHexValue, System.Globalization.NumberStyles.HexNumber);
 			int blueValue = int.Parse(BlueHexValue, System.Globalization.NumberStyles.HexNumber);
 
             redValueLabel.Text = redValue.ToString();
+            //sets values text to string
             greenValueLabel.Text = greenValue.ToString();
             blueValueLabel.Text = blueValue.ToString();
 
             colorView.BackgroundColor = UIColor.FromRGB(redValue, greenValue, blueValue);
+            //changes the background to the RGB values output
 		}
 
 
