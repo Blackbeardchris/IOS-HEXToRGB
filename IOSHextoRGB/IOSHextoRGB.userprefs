@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{7B9792C1-8465-40C3-8CCB-A8D797F5BFB3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IOSHextoRGB/ViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IOSHextoRGB/Main.storyboard">
     <Files>
       <File FileName="IOSHextoRGB/AppDelegate.cs" Line="60" Column="1" />
       <File FileName="IOSHextoRGB/Main.storyboard" />
